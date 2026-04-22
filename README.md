@@ -1,4 +1,4 @@
-`Adyen 2.py`: Script principal em Python contendo todo o tratamento de dados (Pandas), cálculos de KPIs, cruzamento de tabelas (crosstabs) e exportação automatizada para Excel.
+`Adyen 2.py`: Script principal em Python contendo todo o tratamento de dados (Pandas), cálculos de KPIs, e exportação automatizada para Excel.
 `DataAnalyst_case_study_data.csv.zip`: Base de dados original utilizada na análise (compactada para respeitar os limites do GitHub).
 
 **Rodar**
